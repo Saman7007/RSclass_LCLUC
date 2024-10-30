@@ -9,3 +9,4 @@ torchmetrics
 captum
 segformer-pytorch
 scikit-image
+captum
