@@ -10,3 +10,4 @@ captum
 segformer-pytorch
 scikit-image
 captum
+rasterio
